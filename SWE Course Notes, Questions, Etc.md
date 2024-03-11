@@ -18,7 +18,10 @@ Need to revisit: <br/>
 Section 2 -- particularly how CPUs work.
 
 **I understand**: <br/>
-1) OS terms and concepts like version, source, shell, GUI, network, jobs, event-driven, shell scripts, control statement, process, virtual storage, 
+1) OS terms and concepts like version, source, shell, GUI, network, jobs, event-driven, shell scripts, control statement, process, virtual storage,
+2) Most of virtualization.
+3) Most of networking (so far - still in this section)
+4) Different types of IDEs.
 
 **I sort of understand**: <br/>
 1) RAID. I understand RAID 0 is based on striping, RAID 1 is based on duplicating the drives, RAID 5 and 6 are based on some form of parity.
