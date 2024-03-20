@@ -32,3 +32,6 @@ Section 2 -- particularly how CPUs work.
 **I don't understand**: <br/>
 1) CPUs. I understand the Little Man Computer example a little bit, and I can sort of understand some of the terms, but this was one of the hardest sections to understand.
 2) OS terms and concepts like long-term/short-term scheduling, time slicing, linker, loader, application programming interface (API), and application binary interface (ABI).
+
+## Scripting and programming foundations:
+No real notes so far as much of this class is a review of what I've learned via self study, but I'm excited to finally be "programming" (albeit through Coral) in my SWE degree.
